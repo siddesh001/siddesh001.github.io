@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub
 
-You can use the [editor on GitHub](https://github.com/siddesh001/siddesh001.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world.
+>-Alan kay
+
+I am a Computer Science enthusiast keeping interest in Coding and Data Science. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
